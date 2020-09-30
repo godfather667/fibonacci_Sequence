@@ -1,4 +1,4 @@
-/fib.go - Calculate and display first twenty Fibonacci Sequence Values
+//fib.go - Calculate and display first twenty Fibonacci Sequence Values
 //  This program uses a re-entrant process to calculate the Fibonacci Sequence.
 package main
 
